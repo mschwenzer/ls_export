@@ -11,7 +11,7 @@
 # - select Export Format: R(syntax file)
 # - click 'Export"
 # - Save or copy both files to directory  '/path/to/limesurvey_files/dir/'
-# 3. Hier Pfad ersetzen
+# 3. Set path '/path/to/limesurvey_files/dir/' here:
 '/path/to/limesurvey_files/dir/' -> the_dir
 
 
